@@ -1,6 +1,6 @@
 // main.dart file
 
-import 'class.dart';
+import 'car.dart';
 
 void main() {
   //create object
