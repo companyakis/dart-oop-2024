@@ -1,4 +1,4 @@
-//class.dart file
+//car.dart file
 
 class Car {
   String color;
